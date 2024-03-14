@@ -67,11 +67,11 @@ in question. Additionally, regional factors such as climate and weather conditio
 the prevalence of certain complaints.
 ```
 
-### Sample Prompt 1.1
+### Follow-up Prompt 1
 
-Follow-up Prompt:
 ```
-Among these top consumer complaints, what are the top three that we should address if we were to create a new umbrella?
+Among these top consumer complaints, what are the top three that we should address if we were to 
+create a new umbrella?
 ```
 
 Prompt Engineering Tips:
@@ -83,28 +83,30 @@ Prompt Engineering Tips:
 ChatGPT Response:
 
 ```
-To prioritize the top three consumer complaints when creating a new umbrella, consider addressing the following issues:
+To prioritize the top three consumer complaints when creating a new umbrella, consider addressing 
+the following issues:
 
-1. Durability: Ensuring the umbrella is robust and able to withstand typical environmental conditions is crucial. 
-This involves using high-quality materials for the frame, ribs, and canopy. Reinforcing weak points and conducting 
-rigorous testing for durability, especially in windy conditions, can help prevent issues like bending or breaking.
+1. Durability: Ensuring the umbrella is robust and able to withstand typical environmental 
+conditions is crucial. This involves using high-quality materials for the frame, ribs, 
+and canopy. Reinforcing weak points and conducting rigorous testing for durability, especially 
+in windy conditions, can help prevent issues like bending or breaking.
 
-2. Compactness and Portability: Consumers value umbrellas that are easy to carry around, particularly in unpredictable 
-weather. Designing a compact and lightweight umbrella that folds down to a small size for convenient storage in bags, 
-pockets, or car compartments can enhance its appeal. Streamlining the design without sacrificing durability can 
-improve portability.
+2. Compactness and Portability: Consumers value umbrellas that are easy to carry around, 
+particularly in unpredictable weather. Designing a compact and lightweight umbrella that folds 
+down to a small size for convenient storage in bags, pockets, or car compartments can enhance 
+its appeal. Streamlining the design without sacrificing durability can improve portability.
 
-3. Effective Waterproofing: Providing reliable protection from rain is fundamental for any umbrella. Using waterproof 
-materials for the canopy and ensuring seams are securely sealed can prevent leakage. Additionally, incorporating features 
-like a water-repellent coating or quick-drying fabric can enhance the umbrella's performance in wet conditions.
+3. Effective Waterproofing: Providing reliable protection from rain is fundamental for any 
+umbrella. Using waterproof materials for the canopy and ensuring seams are securely sealed 
+can prevent leakage. Additionally, incorporating features like a water-repellent coating or 
+quick-drying fabric can enhance the umbrella's performance in wet conditions.
 
-By addressing these top consumer complaints in the development of a new umbrella, you can enhance its overall quality, 
-usability, and customer satisfaction.
+By addressing these top consumer complaints in the development of a new umbrella, you can 
+enhance its overall quality, usability, and customer satisfaction.
 ```
 
-### Sample Prompt 1.2
+### Follow-up Prompt 2
 
-Follow-up Prompt:
 ```
 Can you elaborate more on durability?
 ```
@@ -118,33 +120,37 @@ Prompt Engineering Tips:
 ChatGPT Response:
 
 ```
-Certainly! When addressing durability concerns in the development of a new umbrella, several factors should be considered:
+Certainly! When addressing durability concerns in the development of a new umbrella, several 
+factors should be considered:
 
-1. Materials Selection: Choose high-quality materials for key components such as the frame, ribs, canopy, and handle. 
-For example, frames made from sturdy materials like fiberglass or reinforced aluminum are more durable than flimsy 
-plastic frames. Similarly, canopies constructed from strong, waterproof fabrics like polyester or nylon are essential 
-for longevity.
+1. Materials Selection: Choose high-quality materials for key components such as the frame, 
+ribs, canopy, and handle. For example, frames made from sturdy materials like fiberglass or 
+reinforced aluminum are more durable than flimsy plastic frames. Similarly, canopies constructed 
+from strong, waterproof fabrics like polyester or nylon are essential for longevity.
 
-2. Frame Reinforcement: Reinforce critical points of the frame and ribs to withstand stress and pressure, particularly 
-in windy conditions. This may involve using double-reinforced ribs or additional support struts to prevent bending or snapping.
+2. Frame Reinforcement: Reinforce critical points of the frame and ribs to withstand stress 
+and pressure, particularly in windy conditions. This may involve using double-reinforced ribs 
+or additional support struts to prevent bending or snapping.
 
-3. Wind Resistance Testing: Conduct thorough wind resistance testing during the design phase to identify potential weak spots 
-and make necessary adjustments. Testing in various wind conditions, including gusts, can help ensure the umbrella can withstand 
-typical weather conditions without damage.
+3. Wind Resistance Testing: Conduct thorough wind resistance testing during the design phase 
+to identify potential weak spots and make necessary adjustments. Testing in various wind conditions, 
+including gusts, can help ensure the umbrella can withstand typical weather conditions without damage.
 
-4. Quality Control: Implement strict quality control measures during manufacturing to maintain consistent standards and identify 
-any defects or flaws early in the production process. This includes inspecting materials, components, and finished products to 
-ensure they meet durability requirements.
+4. Quality Control: Implement strict quality control measures during manufacturing to maintain 
+consistent standards and identify any defects or flaws early in the production process. This includes 
+inspecting materials, components, and finished products to ensure they meet durability requirements.
 
-5. Warranty and Customer Support: Offer a warranty or guarantee that demonstrates confidence in the umbrella's durability and 
-provides assurance to customers. Additionally, establish responsive customer support channels to address any durability issues 
-that arise post-purchase, such as providing timely replacements or repairs.
+5. Warranty and Customer Support: Offer a warranty or guarantee that demonstrates confidence in 
+the umbrella's durability and provides assurance to customers. Additionally, establish responsive 
+customer support channels to address any durability issues that arise post-purchase, such as providing 
+timely replacements or repairs.
 
-6. User Feedback Incorporation: Gather feedback from users through product testing, reviews, and surveys to identify areas for 
-improvement related to durability. Incorporating real-world experiences and insights into the design process can help create a 
-more durable and reliable umbrella.
+6. User Feedback Incorporation: Gather feedback from users through product testing, reviews, and 
+surveys to identify areas for improvement related to durability. Incorporating real-world experiences 
+and insights into the design process can help create a more durable and reliable umbrella.
 
-By prioritizing durability in material selection, design, testing, quality control, and customer support, you can create a new 
-umbrella that meets consumer expectations for longevity and withstands the rigors of everyday use, including adverse weather conditions.
+By prioritizing durability in material selection, design, testing, quality control, and customer 
+support, you can create a new umbrella that meets consumer expectations for longevity and withstands 
+the rigors of everyday use, including adverse weather conditions.
 ```
 
