@@ -5,13 +5,15 @@ parent: "Case Study: A Innovative Umbrella Venture"
 ---
 
 # Product Ideation/Design
+
 {: .no_toc }
 
 ## Table of contents
+
 {: .no_toc .text-delta }
 
 1. TOC
-{:toc}
+   {:toc}
 
 ---
 
@@ -29,30 +31,30 @@ Prompt Engineering Tips:
 ChatGPT Response:
 
 ```
-While there isn't a centralized database specifically dedicated to consumer complaints 
+While there isn't a centralized database specifically dedicated to consumer complaints
 about umbrellas, common issues reported in public product reviews include:
 
-1. Durability: Many consumers complain about umbrellas breaking or malfunctioning after 
+1. Durability: Many consumers complain about umbrellas breaking or malfunctioning after
 minimal use, such as the ribs bending or snapping in strong winds.
 
-2. Ineffective Waterproofing: Some umbrellas fail to repel water effectively, leading to 
+2. Ineffective Waterproofing: Some umbrellas fail to repel water effectively, leading to
 leakage or saturation during rain showers.
 
-3. Compactness and Portability: Consumers often find that compact umbrellas are not as 
+3. Compactness and Portability: Consumers often find that compact umbrellas are not as
 small or lightweight as advertised, making them inconvenient to carry around.
 
-4. Difficulty Opening and Closing**: Certain umbrellas have mechanisms that are difficult 
+4. Difficulty Opening and Closing**: Certain umbrellas have mechanisms that are difficult
 to operate, causing frustration when opening or closing them, especially during sudden rainstorms.
 
-5. Poor Wind Resistance: Umbrellas that are advertised as windproof may fail to withstand 
+5. Poor Wind Resistance: Umbrellas that are advertised as windproof may fail to withstand
 strong gusts, leading to inversion or damage.
 
-6. Quality of Materials: Complaints may arise regarding the overall quality of materials 
+6. Quality of Materials: Complaints may arise regarding the overall quality of materials
 used, such as flimsy fabric or handles breaking easily.
 
 7. Lack of UV Protection: Some consumers expect umbrellas to provide protection from UV rays, especially those marketed for sun protection, but find them ineffective in this regard.
 
-8. Design Flaws: Issues like uneven weight distribution, awkward handles, or inadequate 
+8. Design Flaws: Issues like uneven weight distribution, awkward handles, or inadequate
 coverage are often mentioned in reviews as design flaws that diminish the umbrella's usability.
 
 9. Customer Service: Complaints may extend to poor customer service experiences, such as difficulty obtaining refunds or replacements for defective products.
@@ -81,12 +83,12 @@ To prioritize the top three consumer complaints when creating a new umbrella, co
 
 1. Durability: Ensuring the umbrella is robust and able to withstand typical environmental conditions is crucial. This involves using high-quality materials for the frame, ribs, and canopy. Reinforcing weak points and conducting rigorous testing for durability, especially in windy conditions, can help prevent issues like bending or breaking.
 
-2. Compactness and Portability: Consumers value umbrellas that are easy to carry around, 
+2. Compactness and Portability: Consumers value umbrellas that are easy to carry around,
 particularly in unpredictable weather. Designing a compact and lightweight umbrella that folds down to a small size for convenient storage in bags, pockets, or car compartments can enhance its appeal. Streamlining the design without sacrificing durability can improve portability.
 
 3. Effective Waterproofing: Providing reliable protection from rain is fundamental for any umbrella. Using waterproof materials for the canopy and ensuring seams are securely sealed can prevent leakage. Additionally, incorporating features like a water-repellent coating or quick-drying fabric can enhance the umbrella's performance in wet conditions.
 
-By addressing these top consumer complaints in the development of a new umbrella, you can 
+By addressing these top consumer complaints in the development of a new umbrella, you can
 enhance its overall quality, usability, and customer satisfaction.
 ```
 
@@ -100,7 +102,6 @@ Prompt Engineering Tips:
 
 1. Build on previous conversations.
 2. You may ask about anything mentioned in previous questions and responses.
-
 
 ChatGPT Response:
 
@@ -139,7 +140,7 @@ Certainly! Here are three trends in personal accessories that could influence ne
 
 1. Sustainable Materials: There's a growing demand for personal accessories made from sustainable materials as consumers become more environmentally conscious. Incorporating eco-friendly materials such as recycled plastics, organic fabrics, or sustainable woods into umbrella designs can appeal to environmentally aware consumers. Additionally, exploring innovative materials with low environmental impact, such as biodegradable or compostable options, can align with sustainability trends.
 
-2. Technology Integration: Personal accessories increasingly feature technology integration to enhance functionality and user experience. For umbrellas, this could involve integrating features like built-in LED lights for visibility in low-light conditions, GPS tracking to prevent loss, or a smart handle with connectivity for notifications or weather updates. Integrating technology seamlessly into the design 
+2. Technology Integration: Personal accessories increasingly feature technology integration to enhance functionality and user experience. For umbrellas, this could involve integrating features like built-in LED lights for visibility in low-light conditions, GPS tracking to prevent loss, or a smart handle with connectivity for notifications or weather updates. Integrating technology seamlessly into the design
 while maintaining durability and usability can cater to tech-savvy consumers seeking enhanced functionality from their accessories.
 
 3. Fashion-forward Designs: Personal accessories serve not only functional purposes but also as fashion statements. Embracing fashion-forward designs, patterns, and colors inspired by current trends in apparel and accessories can make umbrellas more stylish and appealing to fashion-conscious consumers. Collaborating with designers or influencers to create limited-edition collections or incorporating customizable elements like interchangeable canopy designs can cater to diverse style preferences and trends.
@@ -157,7 +158,6 @@ Prompt Engineering Tips:
 
 1. Use previous conversation context.
 2. Specify the number of aspects in the response.
-
 
 ChatGPT Response:
 
@@ -187,7 +187,7 @@ Prompt Engineering Tips:
 ChatGPT Response:
 
 ```
-Among the suggested tech integrations for umbrellas, the most practical option would likely be the automatic opening and closing mechanism. 
+Among the suggested tech integrations for umbrellas, the most practical option would likely be the automatic opening and closing mechanism.
 
 Here's why:
 
@@ -201,4 +201,3 @@ Here's why:
 
 Overall, the automatic opening and closing mechanism stands out as the most practical tech integration for umbrellas, offering tangible benefits in terms of usability, convenience, and safety for users in various weather conditions.
 ```
-
