@@ -13,7 +13,7 @@ parent: "Case Study: A Innovative Umbrella Venture"
 {: .no_toc .text-delta }
 
 1. TOC
-   {:toc}
+{:toc}
 
 ---
 
