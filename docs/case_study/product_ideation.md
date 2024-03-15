@@ -6,15 +6,6 @@ parent: "Case Study: A Innovative Umbrella Venture"
 
 # Product Ideation/Design
 
-{: .no_toc }
-
-## Table of contents
-
-{: .no_toc .text-delta }
-
-1. TOC
-{:toc}
-
 ---
 
 ## Sample Prompt 1 (Identify Pain Points)
