@@ -2,6 +2,7 @@
 layout: default
 title: "Sample Prompt 2 (Identify Three Product Trends)"
 parent: "Product Ideation/Design"
+grand_parent: "Case Study: A Innovative Umbrella Venture"
 has_children: true
 ---
 

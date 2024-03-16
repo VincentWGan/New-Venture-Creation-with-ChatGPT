@@ -2,6 +2,7 @@
 layout: default
 title: "Follow-up Prompt 2 (Elaborate on One Point)"
 parent: "Sample Prompt 1 (Identify Pain Points)"
+grand_parent: "Product Ideation/Design"
 ---
 
 # Follow-up Prompt 2 (Elaborate on One Point)

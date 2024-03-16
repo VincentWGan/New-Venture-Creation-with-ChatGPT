@@ -2,6 +2,7 @@
 layout: default
 title: "Follow-up Prompt 1 (Elaborate and Rank in One Trend)"
 parent: "Sample Prompt 2 (Identify Three Product Trends)"
+grand_parent: "Product Ideation/Design"
 ---
 
 # Follow-up Prompt 1 (Elaborate and Rank in One Trend)

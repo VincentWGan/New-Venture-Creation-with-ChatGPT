@@ -2,6 +2,7 @@
 layout: default
 title: "Follow-up Prompt 2 (Find the Best One)"
 parent: "Sample Prompt 2 (Identify Three Product Trends)"
+grand_parent: "Product Ideation/Design"
 ---
 
 # Follow-up Prompt 2 (Find the Best One)
