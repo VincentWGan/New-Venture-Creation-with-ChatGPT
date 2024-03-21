@@ -132,7 +132,7 @@ I don't find your justifications convincing enough. Can you make them more convi
 
 ### Prompt Engineering Tips
 
-1. Provide feedbacks on the response to find-tune it to your needs.
+1. Provide feedbacks on the response to fine-tune it to your needs.
 
 ### ChatGPT Response
 

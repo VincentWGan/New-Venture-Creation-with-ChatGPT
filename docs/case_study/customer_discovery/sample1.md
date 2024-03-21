@@ -240,7 +240,7 @@ the essential questions?
 
 ### Prompt Engineering Tips
 
-1. Provide feedbacks on the response to find-tune it to your needs.
+1. Provide feedbacks on the response to fine-tune it to your needs.
 
 ### ChatGPT Response
 
