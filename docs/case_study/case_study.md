@@ -1,12 +1,12 @@
 ---
-title: "Case Study: A Innovative Umbrella Venture"
+title: "Case Study: An Innovative Umbrella Venture"
 layout: default
 nav_order: 2
 has_children: true
 permalink: docs/case-study
 ---
 
-# Case Study: A Innovative Umbrella Venture
+# Case Study: An Innovative Umbrella Venture
 {: .fs-9 }
 
 {: .no_toc }

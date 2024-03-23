@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Financial Model"
-parent: "Case Study: A Innovative Umbrella Venture"
+parent: "Case Study: An Innovative Umbrella Venture"
 nav_order: 6
 has_children: true
 ---

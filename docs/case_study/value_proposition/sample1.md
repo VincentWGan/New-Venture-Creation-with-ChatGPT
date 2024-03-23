@@ -3,7 +3,7 @@ layout: default
 title: "Sample Conversation 1 (Explore Marketing Channels)"
 nav_order: 1
 parent: "Value Proposition / Brand Perception"
-grand_parent: "Case Study: A Innovative Umbrella Venture"
+grand_parent: "Case Study: An Innovative Umbrella Venture"
 ---
 
 # Sample Conversation 1 (Target Eco-conscious Consumers)

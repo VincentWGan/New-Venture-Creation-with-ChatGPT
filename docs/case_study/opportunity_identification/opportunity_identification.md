@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Opportunity Identification"
-parent: "Case Study: A Innovative Umbrella Venture"
+parent: "Case Study: An Innovative Umbrella Venture"
 nav_order: 1
 has_children: true
 ---

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Value Proposition / Brand Perception"
-parent: "Case Study: A Innovative Umbrella Venture"
+parent: "Case Study: An Innovative Umbrella Venture"
 nav_order: 5
 has_children: true
 ---

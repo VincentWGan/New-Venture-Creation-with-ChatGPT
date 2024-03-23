@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Product Ideation/Design"
-parent: "Case Study: A Innovative Umbrella Venture"
+parent: "Case Study: An Innovative Umbrella Venture"
 nav_order: 2
 has_children: true
 ---

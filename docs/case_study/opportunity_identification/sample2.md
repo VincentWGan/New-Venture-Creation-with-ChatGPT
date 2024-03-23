@@ -3,7 +3,7 @@ layout: default
 title: "Sample Conversation 2 (Analyze Three Product Trends)"
 nav_order: 2
 parent: "Opportunity Identification"
-grand_parent: "Case Study: A Innovative Umbrella Venture"
+grand_parent: "Case Study: An Innovative Umbrella Venture"
 ---
 
 # Sample Conversation 2 (Analyze Three Product Trends)

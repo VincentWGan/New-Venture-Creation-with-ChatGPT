@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Channel"
-parent: "Case Study: A Innovative Umbrella Venture"
+parent: "Case Study: An Innovative Umbrella Venture"
 nav_order: 4
 has_children: true
 ---

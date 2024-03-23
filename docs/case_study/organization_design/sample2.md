@@ -2,7 +2,7 @@
 layout: default
 title: "Sample Conversation 2 (Compare Different Sales Channels)"
 nav_order: 2
-parent: "Channel"
+parent: "Organization Design / Process Design / Technology Infrastructure"
 grand_parent: "Case Study: An Innovative Umbrella Venture"
 ---
 

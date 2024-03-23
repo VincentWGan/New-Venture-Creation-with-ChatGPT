@@ -2,7 +2,7 @@
 layout: default
 title: "Sample Conversation 1 (Explore Marketing Channels)"
 nav_order: 1
-parent: "Channel"
+parent: "Organization Design / Process Design / Technology Infrastructure"
 grand_parent: "Case Study: An Innovative Umbrella Venture"
 ---
 

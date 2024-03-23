@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Customer Discovery"
-parent: "Case Study: A Innovative Umbrella Venture"
+parent: "Case Study: An Innovative Umbrella Venture"
 nav_order: 3
 has_children: true
 ---

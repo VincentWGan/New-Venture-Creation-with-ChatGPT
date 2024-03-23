@@ -3,7 +3,7 @@ layout: default
 title: "Sample Conversation 1 (Analyze Financial Models)"
 nav_order: 1
 parent: "Financial Model"
-grand_parent: "Case Study: A Innovative Umbrella Venture"
+grand_parent: "Case Study: An Innovative Umbrella Venture"
 ---
 
 # Sample Conversation 1 (Analyze Financial Models)
