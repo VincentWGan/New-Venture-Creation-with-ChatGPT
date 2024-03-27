@@ -6,7 +6,7 @@ nav_order: 9
 has_children: true
 ---
 
-# Channel
+# Business Strategy
 {: .fs-9 }
 
 {: .no_toc }
