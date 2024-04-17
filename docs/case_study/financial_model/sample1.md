@@ -224,7 +224,7 @@ Can you visualize the results?
 
 ### ChatGPT Response
 
-![Financial Overview](./../assets/images/financial1d2.png)
+![Financial Overview](/New-Venture-Creation-with-ChatGPT/assets/images/financial1d2.png)
 ```
 Here's the visual representation of the financial overview for the innovative umbrella 
 venture over the first three years:
