@@ -12,5 +12,6 @@ permalink: docs/case-study
 {: .no_toc }
 
 This case study demonstrates various prompt engineering themes and techniques in different
-stages of a new venture creation.
+stages of a new venture creation. All prompt responses are based on the current ChatGPT 
+Plus version to demonstrate its full capabilities.
 {: .fs-6 .fw-300 }
