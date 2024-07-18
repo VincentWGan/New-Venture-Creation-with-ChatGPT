@@ -3,7 +3,7 @@ layout: default
 title: "Sample Conversation 2 (Establish Unique Brand Values)"
 nav_order: 2
 parent: "Value Proposition / Brand Perception"
-grand_parent: "Case Study: An Innovative Umbrella Venture"
+grand_parent: "Case Study: Using AI to Launch a New Business Making and Selling Umbrellas"
 ---
 
 # Sample Conversation 2 (Establish Unique Brand Values)

@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Channel"
-parent: "Case Study: An Innovative Umbrella Venture"
+parent: "Case Study: Using AI to Launch a New Business Making and Selling Umbrellas"
 nav_order: 4
 has_children: true
 ---

@@ -3,7 +3,7 @@ layout: default
 title: "Sample Conversation 1 (Design a Customer Survey)"
 nav_order: 1
 parent: "Customer Discovery"
-grand_parent: "Case Study: An Innovative Umbrella Venture"
+grand_parent: "Case Study: Using AI to Launch a New Business Making and Selling Umbrellas"
 ---
 
 # Sample Conversation 1 (Design a Customer Survey)

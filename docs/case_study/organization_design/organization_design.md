@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Organization Design / Process Design / Technology Infrastructure"
-parent: "Case Study: An Innovative Umbrella Venture"
+parent: "Case Study: Using AI to Launch a New Business Making and Selling Umbrellas"
 nav_order: 7
 has_children: true
 ---

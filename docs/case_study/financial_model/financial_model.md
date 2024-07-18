@@ -1,7 +1,7 @@
 ---
 layout: default
 title: "Financial Model"
-parent: "Case Study: An Innovative Umbrella Venture"
+parent: "Case Study: Using AI to Launch a New Business Making and Selling Umbrellas"
 nav_order: 6
 has_children: true
 ---
