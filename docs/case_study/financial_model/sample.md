@@ -1,12 +1,12 @@
 ---
 layout: default
-title: "Sample Conversation (Create and Analyze a New Financial Model)"
+title: "Sample Conversation"
 nav_order: 1
 parent: "Financial Model"
 grand_parent: "Case Study: An Innovative Umbrella Venture"
 ---
 
-# Sample Conversation (Create and Analyze a Financial Model)
+# Sample Conversation
 {: .no_toc }
 
 ## Table of contents

@@ -1,17 +1,16 @@
 ---
-title: "Case Study: An Innovative Umbrella Venture"
+title: "Case Study: Using AI to Launch a New Business Making and Selling Umbrellas"
 layout: default
 nav_order: 2
 has_children: true
 permalink: docs/case-study
 ---
 
-# Case Study: An Innovative Umbrella Venture
+# Case Study: Using AI to Launch a New Business Making and Selling Umbrellas
 {: .fs-9 }
 
 {: .no_toc }
 
 This case study demonstrates various prompt engineering themes and techniques in different
-stages of a new venture creation. All prompt responses are based on the current ChatGPT 
-Plus version to demonstrate its full capabilities.
+stages of a new venture creation.
 {: .fs-6 .fw-300 }
